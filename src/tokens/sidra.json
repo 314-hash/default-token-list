@@ -46,5 +46,14 @@
     "decimals": 18,
     "chainId": 97453,
     "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeifwb63tnbaqa3tqb52lra5e34fir6t454nzaq3vm6p24kw6eionk4"
+  },
+  {
+    "name": "RIDEX",
+    "address": "0xe91cAC00C1092611EB598B284a87A623a35aF9b7",
+    "symbol": "RIDE",
+    "decimals": 18,
+    "chainId": 97453,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeibmucmvv6pe4zzhkriu2ci6yvdymdjflevobzetqdivbwghro53fy"
   }
 ]
+
