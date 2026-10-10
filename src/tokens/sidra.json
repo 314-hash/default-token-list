@@ -54,14 +54,13 @@
     "decimals": 18,
     "chainId": 97453,
     "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeibmucmvv6pe4zzhkriu2ci6yvdymdjflevobzetqdivbwghro53fy"
+  },
+  {
+    "chainId": 97453,
+    "address": "0x4765561e63914E72168bBd2A7e2ce72F9057ca04",
+    "name": "GameMind AI",
+    "symbol": "GMAI",
+    "decimals": 18,
+    "logoURI": "https://amethyst-general-silkworm-428.mypinata.cloud/ipfs/bafybeibefdir6zxlyw7ryksxpfvmqey5mlfqizsycheis53xckrqj4zrdu"
   }
-],
-{
-  "chainId": 97453,
-  "address": "0x4765561e63914E72168bBd2A7e2ce72F9057ca04",
-  "name": "GameMind AI",
-  "symbol": "GMAI",
-  "decimals": 18,
-  "logoURI": "https://amethyst-general-silkworm-428.mypinata.cloud/ipfs/bafybeibefdir6zxlyw7ryksxpfvmqey5mlfqizsycheis53xckrqj4zrdu"
-}
-
+]
